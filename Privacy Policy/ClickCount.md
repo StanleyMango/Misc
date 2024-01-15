@@ -1,0 +1,1 @@
+The app doesn’t collect user data and it doesn’t share user data with other companies or organizations.
